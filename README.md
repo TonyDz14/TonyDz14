@@ -1,7 +1,7 @@
-<div id="header" aling="center">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200">
-    <h1 aling="center">Hi 👋, I'm Anthony Pineda </h1>
-    <h3 aling="center">If it can be imagined, it can be programmed</h3>
+<div id="header" align="center">
+    <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200">
+    <h1 align="center">Hi 👋, I'm Anthony Pineda </h1>
+    <h3 align="center">If it can be imagined, it can be programmed</h3>
 </div>
 
 - 🔭 I’m currently working on ... from home
