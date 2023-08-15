@@ -1,3 +1,4 @@
+https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif
 ### Hi there Anthony Pineda 👋
 I'm a Front-end developer I live in Peru
 
@@ -7,3 +8,4 @@ I'm a Front-end developer I live in Peru
 - 📫 How to reach me: ...at "933-060-616" or email "anthony051413@gmail.com"
 - 😄 Pronouns: ... Tony
 - ⚡ Fun fact: ... Soy Gamer
+
