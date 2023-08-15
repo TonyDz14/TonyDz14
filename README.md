@@ -1,5 +1,5 @@
 <div id="header" aling="center">
-    <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="200">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200">
     <h1 aling="center">Hi 👋, I'm Anthony Pineda </h1>
     <h3 aling="center">If it can be imagined, it can be programmed</h3>
 </div>
