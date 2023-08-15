@@ -1,6 +1,8 @@
-https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif
-### Hi there Anthony Pineda 👋
-I'm a Front-end developer I live in Peru
+<div id="header" aling="center">
+    <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="200">
+    <h1 aling="center">Hi 👋, I'm Anthony Pineda </h1>
+    <h3 aling="center">If it can be imagined, it can be programmed</h3>
+</div>
 
 - 🔭 I’m currently working on ... from home
 - 🌱 I’m currently learning ... improving react astro
